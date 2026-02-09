@@ -1,1 +1,27 @@
 This repository is here to hold the files I make while working through the Great Courses "How to Program Python 3."
+
+The files are named to reflect their contents. As the course is presented in lectures, both in video and PDF (as a book format),
+the files that contain the bulk of the code created while working through each lecture, those files are named in the following format:
+lecture_01.py
+where lecture indicates the content is from the lecture,
+01 indicates the chapter of the content
+py indicates that it is a Python file.
+
+Other things might also be added to a file name:
+lecture_01_02.py
+In this example, the 02 indicates that this is the second Python file from that chapter. I might do this because the file has become
+a little long to view or it also might be that the program that runs might be a little long to go through and I do not want to run
+the whole thing time after time when it is really the new concepts I want to test while learning about the code.
+
+Sometimes I might include other words in the file name:
+lecture_01_03_input_prompts.py
+input_prompts would indicate that the file contains concepts about learning how to use input prompts. I might also go beyond that
+speciifc concept in the exploration on how to use that concept.
+
+Other files that might be seen in this repository are CSV files that have the .csv file extension. That stands for
+comma separated values
+Text files with the .txt file extension might be seen.
+Some files that are not Python files might have short names that are not really indicative as to what the content is. For information
+on those files, they might be opened to have a look at the content. In general, the name of those files is probably documented
+in a program file. The names might be shortened so I do not have to type a name that is long, but indicative of the content, everytime
+I have to type it into the input prompt in the program.
